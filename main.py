@@ -4,7 +4,7 @@ from random import choice
 from time import sleep
 import telebot
 
-bot = telebot.TeleBot('1911810401:AAEJmxx-m7vllOmVsDhjK8bK-NcCT-pkZ_c')
+bot = telebot.TeleBot('TOKEN')
 
 command_dict = {
     '/start': 'Старт бота',
