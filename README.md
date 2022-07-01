@@ -1,10 +1,6 @@
 # tic-tac-toe-telegram-bot
 ❌ This is a Telegram bot that can play tic-tac-toe
 
-## Example
-
-![image](https://github.com/Rusih100/tic-tac-toe-telegram-bot/blob/7026359f83be38410ece5434ac7be58e97e1524b/README/demo.gif)
-
 ## Installation
 
 1.  Download the repository:  
