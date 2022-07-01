@@ -15,7 +15,7 @@
 
 3. Specify your token in the TOKEN variable: 
     ```python
-    TOKEN = 'Ваш токен'
+    TOKEN = 'Your token'
     ```
 
     _P.S. The token can be obtained from the bot [BotFather](https://t.me/botfather)_
