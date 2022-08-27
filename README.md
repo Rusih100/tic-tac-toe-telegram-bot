@@ -1,6 +1,9 @@
 # tic-tac-toe-telegram-bot
 ❌ This is a Telegram bot that can play tic-tac-toe
 
+## Remark   
+The bot is implemented on the basis of functional programming based on the pyTelegramBotAPI library. The code is not perfect.
+
 ## Installation
 
 1.  Download the repository:  
